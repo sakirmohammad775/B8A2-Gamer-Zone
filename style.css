@@ -117,3 +117,80 @@
     
 }
 
+/*section two started*/
+.section-two{
+    width: 1530px;
+}
+.online-title{
+    color: #0B0223;
+    font-size:2.8rem;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    text-align: center;
+ 
+}
+span{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+.section-description-2{
+    color: #534C64;
+    font-size: 1.1rem;
+    text-align: center; /*problem find that*/
+    
+}
+.section-three{
+    width: 1530px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.animation{
+    width: 328px;
+    height: 450px;
+    background-color:#fff;
+    border-radius: 16px;
+    
+
+}
+.animation img{
+    width:300px;
+    margin: 14px;
+
+}
+.section-description-3{
+    color: #534C64;
+    padding-left: 15px;
+}
+
+/*section three start*/
+
+.rectangle-78{
+    position: relative;
+    right:150px ;
+    top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
