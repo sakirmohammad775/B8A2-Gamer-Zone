@@ -1,0 +1,119 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+/*nav bar start*/
+.nav{
+    display: flex;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    width: 1530px;
+}
+.gamer{
+    
+    font-family: Work Sans;
+    font-size: 2.8rem;
+    font-weight: 700;
+    
+
+}
+.frame{
+    width: 80px;
+    height: 40px;
+    margin-top: 40px;
+    padding-right: 20px;
+    margin-left: 60px;
+    
+}
+.left-side{
+    display: flex;
+}
+.about-us{
+    display: flex;
+    margin-top: 40px;
+}
+
+.btn-primary{
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    width: 230px;
+    height: 56px;
+    margin-top: 40px;
+    margin-left: 700px;
+    
+}
+/*nav bar finished*/
+/*section one start*/
+.section-one{
+    display:flex;
+    padding-left: 60px;
+}
+.section-title{
+    margin-top: 60px;
+}
+.group-18{
+    width: 611px;
+    height: 700px;
+    padding-left: 350px;
+}
+
+
+.play{
+    
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 2.8rem;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.goat{
+
+    margin-top: 0px;
+    font-size: 6rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0px;
+}
+.section-description{
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.sign{
+    
+    padding: 17px 30px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 48px;
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    border-style: none;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    }
+.go{
+    padding: 17px 30px;
+    gap: 10px;
+    border-radius: 48px;
+    background: #4EC5F7;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-style: none;
+}
+.button-sign{
+    padding-top: 20px;
+    
+}
+
