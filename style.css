@@ -25,21 +25,33 @@
     margin-left: 60px;
     
 }
-.left-side{
-    display: flex;
+.para-about{
+    margin-left: 500px;
+    padding-left: 10px;
+    
 }
-.about-us{
-    display: flex;
-    margin-top: 40px;
+.about{
+    padding-left: 20px;
+    padding-top: 35px;
+}
+.follow{
+    padding: 6px;
+}
+.svg-follow{
+    padding-left:15px ;
+    padding-top: 15px;
+    padding-right: 3px;
+   
 }
 
 .btn-primary{
+    display: flex;
     border-radius: 8px;
     background: rgba(11, 2, 35, 0.10);
     width: 230px;
     height: 56px;
     margin-top: 40px;
-    margin-left: 700px;
+    margin-left: 100px;
     
 }
 /*nav bar finished*/
