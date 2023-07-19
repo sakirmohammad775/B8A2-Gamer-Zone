@@ -245,9 +245,72 @@ span{
 
 
 /*footer start*/
+.footer{
+    width: 1530px;
+    height: 600px;
+    background: #0B0223;
+    margin-top: 80px;
+}
+.footer-1{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 600px;
+  
+}
 
+.frame-2{
+    width: 80px;
+    height: 40px;
+    margin-top: 45px;
+    padding-right: 20px;
+    margin-left: 60px;
+}
 
+.gamer-2{
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 700;
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.span-two{
+    background: #FFF;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
 
+/* footer-2 start*/
+.footer-2{
+    margin-left: 260px;
+}
 
+.footer-ul-1 {
+    display: flex;
+    text-decoration: none;
+    color: #FFF;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+li{
+    list-style: none;
+    
+}
+.our{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+/*footer-3 start*/
+.footer-3{
+    
+   
+}
 
+.footer-icon{
+}
 
