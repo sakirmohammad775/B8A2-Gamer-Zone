@@ -253,7 +253,7 @@ span{
 }
 .footer-1{
     display: flex;
-    padding-top: 30px;
+    padding-top: 50px;
     padding-left: 600px;
   
 }
@@ -307,10 +307,11 @@ li{
 }
 /*footer-3 start*/
 .footer-3{
-    
+    margin-left: 500px;
    
 }
-
-.footer-icon{
+.footer-svg{
+    width: 40px;
+    height: 40px;
+    padding: 25px;   
 }
-
