@@ -440,6 +440,19 @@ li{
         
         
     }
-  
+  .rectangle-67{
+    width: 300px;
+    height: 300px;
+    margin-left: 0px;
+  }
+  .rectangle-78{
+    width: 190px;
+    height: 190px;
+    position: relative;
+    left: 190px;
+    top: 20px;
+
+  }
+
 
 }
