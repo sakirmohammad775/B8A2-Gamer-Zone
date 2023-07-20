@@ -203,7 +203,6 @@ span{
     font-family: Work Sans;
     font-size: 2.8rem;
     font-weight: 700;
-    line-height: 60px;
 }
 .animation-2{
     padding-right: 100px;
@@ -350,33 +349,97 @@ li{
 
 /*responsive website*/
 @media screen and (max-width:576px){
-    .section-three{
-        flex-direction: column;
-        margin-left: 200px;
-    }
+/*nav bar start*/   
     .nav{
         flex-direction: column;
         align-items: center;
-        width: 650px;
+        width: 450px;
         
     }
-    .about{padding: 0px;}
-    .frame{padding-right: 15px;}
+    
+    .gamer{
+        margin-bottom: 0px;
+
+    }
+    .btn-primary{
+        margin-right: 100px;
+        margin-top: 0px;
+    }
+    
+    .para-about{
+        margin-top: 0px;
+    }
+    .about{
+        padding: 0px;
+    }
+    .frame{
+        padding-right: 55px;
+    }
+
+/*nav bar finished*/
+
+/* section one start*/
+
+    
     .section-one{
         flex-direction: column-reverse;
     }
     .group-18{
-        padding-left: 5px;
-
+        width: 350px;
+        height: 400px;
+        padding-left: 0px;
+        padding-top: 50px;
+    }
+    .goat{
+        font-size: 4rem;
+        font-weight: 800;
     }
     .section-title{
-        padding-left: 20px;
+        padding-left: 30px;
        
     }
+    .play{
+        font-size: 2rem;
+    }
+    .section-description{
+        font-size: 1rem;
+    }
+    /*section two start*/
+
     .section-two{
+        width: 420px;
+        }
+
+    .online-title,
+    .play-games,
+    span
+    {
+        font-size: 1.7rem;
         
     }
+
+    .section-description-2 {
+        font-size: 0.7rem;
+    }
+
+/* section-three start*/
+
+.section-three{
+        flex-direction: column;
+        }
+/*section-4 start*/  
+   
     .section-4{
         flex-direction: column-reverse;
+    
     }
+    .animation-2 {
+        padding-left: 40px;
+        padding-right: 0px;
+        margin-top: 0px;
+        
+        
+    }
+  
+
 }
